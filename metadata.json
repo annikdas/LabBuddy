@@ -1,0 +1,5 @@
+{
+  "name": "LabBuddy",
+  "description": "A friendly medical report explainer that translates complex lab results into plain English.",
+  "requestFramePermissions": []
+}
